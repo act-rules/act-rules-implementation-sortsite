@@ -1,0 +1,19 @@
+{
+    "name": "act-rules-implementation-sortsite",
+    "version": "1.0.0",
+    "description": "Implementation report for ACT Rules test cases validated by SortSite",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/act-rules/act-rules-implementation-sortsite.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/act-rules/act-rules-implementation-sortsite/issues"
+    },
+    "homepage": "https://github.com/act-rules/act-rules-implementation-sortsite#readme"
+  }
