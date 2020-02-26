@@ -1,0 +1,526 @@
+{
+"@context": "https://act-rules.github.io/earl-context.json",
+"@graph": [
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/1533146d80e1436c93eb9aae92e509027b329113.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/2d775d11ea501f97cf182fa8091373ebaddc7b9a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/39be33320e28784dabe83c32689346ce51b552e5.svg",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/3e323dce62702058007bf2e045076f03a6c62c21.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Failed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/40e536cc7e242b50eba02f75b08a322cbcacfd4d.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/55c70bff5756ba6287b4f3096baf6ffcc22cac23.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/608ba7121512d21500aac49678407bb9f2f42c05.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/6fdbb34a1afc74db4c8f9423e3b04361de5c2eb1.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/ae8bead0eb2ba7b474b56f3253549974eefa469b.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/c57827350f8a82aa11cebdce3ac5e7f8a536bc0f.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/2779a5/efb8841af81101bafdce67d4b7cf1893f300073b.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules2779a5",
+  "@type": "TestCase",
+  "title": "HTML page has title: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/b5c3f8/190e6aec2df43e234c468b187d427c32d5d942c1.svg",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesb5c3f8",
+  "@type": "TestCase",
+  "title": "HTML page has `lang` attribute: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/b5c3f8/1b7bd1aaf28209779a14e227ed6b04602f3988b4.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesb5c3f8",
+  "@type": "TestCase",
+  "title": "HTML page has `lang` attribute: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/b5c3f8/2f3f2c774ba3e0ac44c37bdb43a34c85bf73e484.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesb5c3f8",
+  "@type": "TestCase",
+  "title": "HTML page has `lang` attribute: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/b5c3f8/474d1225bab283228455fbee4f7df67f1ec21ace.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesb5c3f8",
+  "@type": "TestCase",
+  "title": "HTML page has `lang` attribute: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/b5c3f8/580a61d57084cdbbe6b27c3dc35d4cc51d078c41.xml",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesb5c3f8",
+  "@type": "TestCase",
+  "title": "HTML page has `lang` attribute: Inapplicable Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/b5c3f8/71b6d84f72e6a65150e8bf82a6b3f8ad090dea39.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesb5c3f8",
+  "@type": "TestCase",
+  "title": "HTML page has `lang` attribute: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/b5c3f8/9e6fd0d4112ad490218f17263e36ec33f8adb8db.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.36",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesb5c3f8",
+  "@type": "TestCase",
+  "title": "HTML page has `lang` attribute: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-02-26T15:30:50+00:00"
+ }
+}
+]
+}
+]
+}
