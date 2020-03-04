@@ -24,7 +24,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -53,7 +53,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -82,7 +82,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -111,7 +111,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -140,7 +140,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -169,7 +169,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -198,7 +198,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -227,7 +227,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -256,7 +256,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -285,7 +285,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -314,7 +314,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -343,7 +343,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -372,7 +372,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -401,7 +401,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -430,7 +430,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -459,7 +459,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -488,7 +488,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -517,7 +517,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -546,7 +546,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -575,7 +575,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -604,7 +604,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -633,7 +633,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -662,7 +662,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -691,7 +691,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -720,7 +720,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -749,7 +749,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -778,7 +778,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -807,7 +807,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -836,7 +836,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -865,7 +865,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -894,7 +894,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -923,7 +923,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -952,7 +952,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -981,7 +981,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1010,7 +1010,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1039,7 +1039,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1068,7 +1068,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1097,7 +1097,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1126,7 +1126,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1155,7 +1155,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1184,7 +1184,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1213,7 +1213,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1242,7 +1242,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1271,7 +1271,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1300,7 +1300,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1329,7 +1329,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1358,7 +1358,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1387,7 +1387,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1416,7 +1416,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1445,7 +1445,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1474,7 +1474,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1503,7 +1503,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1532,7 +1532,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1561,7 +1561,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1590,7 +1590,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1619,7 +1619,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1648,7 +1648,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1677,7 +1677,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1706,7 +1706,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1735,7 +1735,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1764,7 +1764,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1793,7 +1793,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1822,7 +1822,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1851,7 +1851,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1880,7 +1880,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1909,7 +1909,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1938,7 +1938,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1967,7 +1967,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -1996,7 +1996,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2025,7 +2025,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2054,7 +2054,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2083,7 +2083,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2112,7 +2112,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2141,7 +2141,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2170,7 +2170,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2199,7 +2199,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2228,7 +2228,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2257,7 +2257,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2286,7 +2286,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2315,7 +2315,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2344,7 +2344,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2373,7 +2373,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2402,7 +2402,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2431,7 +2431,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2460,7 +2460,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2489,7 +2489,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2518,7 +2518,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2547,7 +2547,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2576,7 +2576,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2605,7 +2605,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2634,7 +2634,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2663,7 +2663,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2692,7 +2692,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2721,7 +2721,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2750,7 +2750,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2779,7 +2779,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2808,7 +2808,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2837,7 +2837,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2866,7 +2866,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2895,7 +2895,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2924,7 +2924,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2953,7 +2953,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -2982,7 +2982,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3011,7 +3011,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3040,7 +3040,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3069,7 +3069,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3098,7 +3098,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3127,7 +3127,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3156,7 +3156,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3185,7 +3185,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3214,7 +3214,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3243,7 +3243,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3272,7 +3272,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3301,7 +3301,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3330,7 +3330,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3359,7 +3359,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3388,7 +3388,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3417,7 +3417,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3446,7 +3446,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3475,7 +3475,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3504,7 +3504,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3533,7 +3533,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3562,7 +3562,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3591,7 +3591,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3620,7 +3620,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3649,7 +3649,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3678,7 +3678,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3707,7 +3707,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3736,7 +3736,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3765,7 +3765,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3794,7 +3794,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3823,7 +3823,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3852,7 +3852,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3881,7 +3881,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3910,7 +3910,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3939,7 +3939,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3968,7 +3968,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -3997,7 +3997,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4026,7 +4026,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4055,7 +4055,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4084,7 +4084,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4113,7 +4113,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4142,7 +4142,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4171,7 +4171,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4200,7 +4200,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4229,7 +4229,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4258,7 +4258,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4287,7 +4287,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4316,7 +4316,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4345,7 +4345,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4374,7 +4374,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4403,7 +4403,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4432,7 +4432,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4461,7 +4461,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4490,7 +4490,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4519,7 +4519,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4548,7 +4548,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4577,7 +4577,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4606,7 +4606,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4635,7 +4635,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4664,7 +4664,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4693,7 +4693,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4722,7 +4722,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4751,7 +4751,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4780,7 +4780,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4809,7 +4809,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4838,7 +4838,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4867,7 +4867,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4896,7 +4896,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4925,7 +4925,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4954,7 +4954,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -4983,7 +4983,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5012,7 +5012,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5041,7 +5041,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5070,7 +5070,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5099,7 +5099,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5128,7 +5128,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5157,7 +5157,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5186,7 +5186,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5215,7 +5215,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5244,7 +5244,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5273,7 +5273,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5302,7 +5302,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5331,7 +5331,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5360,7 +5360,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5389,7 +5389,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5418,7 +5418,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5447,7 +5447,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5476,7 +5476,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5505,7 +5505,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5534,7 +5534,819 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/0b212e48dbb2517256ee6f8235ad550ac8d5ba64.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 8"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/197c12643bd300777222da7115d0339d131903f2.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/25998b8737470e28b6a3de8bb775f1d7acc81008.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/28a2fa1fbe147515d4abd03996e6d481616282da.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 8"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/3501cb7303834d272bc333b973995e9a9ae0f0e8.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/54ecd88ef15080bb65a4ab322fda9f3316527fe3.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 11"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/5a077b6ba48093c19552cd5fad8c9edeea792916.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 10"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/6f8fa71c663ca8e52324a3dddbd4a2d60140dba1.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:untested",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/71886cad36622fb466cf3177a341ade74322f0fe.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/732a994857350f2e945ddd88e8767819a29e720f.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/76cfbf9680b3ecc83029d8eefc6e037bd5075fab.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/772b21825f272c3983e4c8e55757209e41200a08.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 10"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/778de4bebc6fc6e3086f5acec2749b697146bead.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 7"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/9573b85ae25b158899fcba32685475efe8e97a96.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 9"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/9c93c6c0a7880bfd659d7ceb6ed89a535519fd7d.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/a5c79e86ea2603cd0873f0d00e9cf8b4a19340cf.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 7"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:untested",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/abd1c7e94b8e3cafce76bfccaa15fcd5d9c3bc70.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/ae9c5ac945546b60ea8bb7bba64680da26dfe7e4.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/b09119e2816b6b59ed986cf7659cbfb0834ae42a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/b4cc947734c2d828a5e7c493ee58970c3b48f4d0.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/c622e5d16f0852118cc379e72bf7562e50d394a7.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/cc241e39eb8d5bfa5052139f5d702d0c0ec6c2b8.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/d23607da24667a20e95fe4384d7f335a8ec30987.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 9"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/d7d54e8d50c76c96d2fcaa14fe1fc4b9d0e09186.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/d8f7599e8226f12a4414539f655bf6b36fa15f10.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/e1094dcd0697b11e6228556c7c4da9703786e3d2.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 7"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/e9a5aad9a2416a190840e583fbf3d52e247843aa.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/ede743031a3f43accf239681c22396a4c683821a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rulesafw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5563,7 +6375,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5592,7 +6404,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5621,7 +6433,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5650,7 +6462,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5679,7 +6491,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5708,7 +6520,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5737,7 +6549,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5766,7 +6578,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5795,7 +6607,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5824,7 +6636,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5853,7 +6665,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5882,7 +6694,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5911,7 +6723,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5940,7 +6752,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5969,7 +6781,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -5998,7 +6810,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6027,7 +6839,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6056,7 +6868,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6085,7 +6897,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6114,7 +6926,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6143,7 +6955,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6172,7 +6984,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6201,7 +7013,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6230,7 +7042,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6259,7 +7071,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6288,7 +7100,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6317,7 +7129,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6346,7 +7158,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6375,7 +7187,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6404,7 +7216,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6433,7 +7245,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6462,7 +7274,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6491,7 +7303,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6520,7 +7332,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6549,7 +7361,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6578,7 +7390,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6607,7 +7419,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6636,7 +7448,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6665,7 +7477,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6694,7 +7506,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6723,7 +7535,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6752,7 +7564,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6781,7 +7593,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6810,7 +7622,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6839,7 +7651,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6868,7 +7680,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6897,7 +7709,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6926,7 +7738,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6955,7 +7767,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -6984,7 +7796,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7013,7 +7825,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7042,7 +7854,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7071,7 +7883,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7100,7 +7912,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7129,7 +7941,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7158,7 +7970,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7187,7 +7999,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7216,7 +8028,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7245,7 +8057,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7274,7 +8086,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7303,7 +8115,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7332,7 +8144,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7361,7 +8173,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7390,7 +8202,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7419,7 +8231,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7448,7 +8260,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7477,7 +8289,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7506,7 +8318,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7535,7 +8347,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7564,7 +8376,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7593,7 +8405,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7622,7 +8434,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7651,7 +8463,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7680,7 +8492,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7709,7 +8521,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7738,7 +8550,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7767,7 +8579,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7796,7 +8608,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7825,7 +8637,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7854,7 +8666,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7883,7 +8695,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7912,7 +8724,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7941,7 +8753,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7970,7 +8782,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -7999,7 +8811,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8028,7 +8840,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8057,7 +8869,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8086,7 +8898,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8115,7 +8927,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8144,7 +8956,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8173,7 +8985,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8202,7 +9014,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8231,7 +9043,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8260,7 +9072,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8289,7 +9101,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8318,7 +9130,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8347,7 +9159,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8376,7 +9188,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8405,7 +9217,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8434,7 +9246,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8463,7 +9275,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8492,7 +9304,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8521,7 +9333,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8550,7 +9362,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8579,7 +9391,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8608,7 +9420,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8637,7 +9449,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8666,7 +9478,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8695,7 +9507,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8724,7 +9536,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8753,7 +9565,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8782,7 +9594,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8811,7 +9623,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8840,7 +9652,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8869,7 +9681,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8898,7 +9710,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8927,7 +9739,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8956,7 +9768,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -8985,7 +9797,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9014,7 +9826,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9043,7 +9855,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9072,7 +9884,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9101,7 +9913,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9130,7 +9942,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9159,7 +9971,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9188,7 +10000,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9217,7 +10029,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9246,7 +10058,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9275,7 +10087,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9304,7 +10116,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9333,7 +10145,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9362,7 +10174,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9391,7 +10203,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9420,7 +10232,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9449,7 +10261,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9478,7 +10290,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9507,7 +10319,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9536,7 +10348,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9565,7 +10377,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9594,7 +10406,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9623,7 +10435,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9652,7 +10464,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9681,7 +10493,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9710,7 +10522,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9739,7 +10551,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9768,7 +10580,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9797,7 +10609,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9826,7 +10638,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9855,7 +10667,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9884,7 +10696,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9913,7 +10725,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9942,7 +10754,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -9971,7 +10783,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
@@ -10000,7 +10812,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-03-03T19:10:03+00:00"
+  "date": "2020-03-04T15:39:18+00:00"
  }
 }
 ]
