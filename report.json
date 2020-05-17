@@ -2923,8 +2923,8 @@
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-16T20:13:06+00:00"
+  "outcome": "earl:passed",
+  "date": "2020-05-17T19:59:10+00:00"
  }
 }
 ]
