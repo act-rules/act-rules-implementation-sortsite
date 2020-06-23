@@ -18,13 +18,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Failed Example 2"
+  "title": "Image has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -47,13 +47,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 8"
+  "title": "Image has non-empty accessible name: Passed Example 8"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -76,13 +76,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 1"
+  "title": "Image has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -105,13 +105,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Failed Example 4"
+  "title": "Image has non-empty accessible name: Failed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -134,13 +134,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Inapplicable Example 3"
+  "title": "Image has non-empty accessible name: Inapplicable Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -163,13 +163,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 2"
+  "title": "Image has non-empty accessible name: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -192,13 +192,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Failed Example 1"
+  "title": "Image has non-empty accessible name: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -221,13 +221,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 3"
+  "title": "Image has non-empty accessible name: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -250,13 +250,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Inapplicable Example 4"
+  "title": "Image has non-empty accessible name: Inapplicable Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -279,13 +279,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Inapplicable Example 2"
+  "title": "Image has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -308,13 +308,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Failed Example 5"
+  "title": "Image has non-empty accessible name: Failed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -337,13 +337,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Failed Example 3"
+  "title": "Image has non-empty accessible name: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -366,13 +366,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 7"
+  "title": "Image has non-empty accessible name: Passed Example 7"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -395,13 +395,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 5"
+  "title": "Image has non-empty accessible name: Passed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -424,13 +424,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Inapplicable Example 1"
+  "title": "Image has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -453,13 +453,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 6"
+  "title": "Image has non-empty accessible name: Passed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -482,13 +482,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/23a2a8",
   "@type": "TestCase",
-  "title": "Image has accessible name: Passed Example 4"
+  "title": "Image has non-empty accessible name: Passed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -517,7 +517,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -546,7 +546,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -575,7 +575,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -604,7 +604,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -633,7 +633,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -662,7 +662,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -691,7 +691,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -720,7 +720,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -749,7 +749,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -778,7 +778,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -807,7 +807,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -836,7 +836,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -865,7 +865,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -894,7 +894,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -923,7 +923,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -952,7 +952,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -981,7 +981,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1010,7 +1010,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1039,7 +1039,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1068,7 +1068,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1097,7 +1097,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1126,7 +1126,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1155,7 +1155,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1184,7 +1184,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1213,7 +1213,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1242,7 +1242,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1271,7 +1271,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1300,7 +1300,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1329,7 +1329,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1358,7 +1358,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1387,7 +1387,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1416,7 +1416,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1439,13 +1439,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Passed Example 2"
+  "title": "Image button has non-empty accessible name: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1468,13 +1468,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Failed Example 1"
+  "title": "Image button has non-empty accessible name: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1497,13 +1497,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Inapplicable Example 3"
+  "title": "Image button has non-empty accessible name: Inapplicable Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1526,13 +1526,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Passed Example 4"
+  "title": "Image button has non-empty accessible name: Passed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1555,13 +1555,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Inapplicable Example 4"
+  "title": "Image button has non-empty accessible name: Inapplicable Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1584,13 +1584,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Passed Example 3"
+  "title": "Image button has non-empty accessible name: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1613,13 +1613,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Inapplicable Example 5"
+  "title": "Image button has non-empty accessible name: Inapplicable Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1642,13 +1642,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Passed Example 1"
+  "title": "Image button has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1671,13 +1671,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Inapplicable Example 2"
+  "title": "Image button has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1700,13 +1700,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Failed Example 3"
+  "title": "Image button has non-empty accessible name: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1729,13 +1729,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Inapplicable Example 1"
+  "title": "Image button has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1758,13 +1758,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/59796f",
   "@type": "TestCase",
-  "title": "Image button has accessible name: Failed Example 2"
+  "title": "Image button has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1793,7 +1793,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1822,7 +1822,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1851,7 +1851,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1880,7 +1880,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1909,7 +1909,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1938,7 +1938,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1967,7 +1967,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -1996,7 +1996,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2025,7 +2025,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2054,7 +2054,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2083,7 +2083,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2112,7 +2112,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2141,7 +2141,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2170,7 +2170,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2199,7 +2199,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2228,7 +2228,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2257,7 +2257,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2286,7 +2286,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2315,7 +2315,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2344,7 +2344,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2373,7 +2373,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2402,7 +2402,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2431,7 +2431,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2460,7 +2460,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2489,7 +2489,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2518,7 +2518,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2547,7 +2547,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2576,7 +2576,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2605,7 +2605,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2634,7 +2634,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2663,7 +2663,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2692,7 +2692,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2721,7 +2721,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2750,7 +2750,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2779,7 +2779,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2808,7 +2808,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2837,7 +2837,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2866,7 +2866,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2895,7 +2895,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2924,7 +2924,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2953,7 +2953,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -2982,7 +2982,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3011,7 +3011,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3040,7 +3040,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3069,7 +3069,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3098,7 +3098,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3127,7 +3127,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3156,7 +3156,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3185,7 +3185,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3214,7 +3214,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3243,7 +3243,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3272,7 +3272,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3301,7 +3301,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3330,7 +3330,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3359,7 +3359,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3388,7 +3388,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3417,7 +3417,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3446,7 +3446,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3475,7 +3475,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3504,7 +3504,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3533,7 +3533,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3562,7 +3562,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3591,7 +3591,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3620,7 +3620,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3649,7 +3649,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3678,7 +3678,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3707,7 +3707,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3736,7 +3736,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3765,7 +3765,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3794,7 +3794,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3823,7 +3823,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3852,7 +3852,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3881,7 +3881,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3910,7 +3910,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3939,7 +3939,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3968,7 +3968,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -3997,7 +3997,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4026,7 +4026,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4055,7 +4055,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4084,7 +4084,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4113,7 +4113,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4142,7 +4142,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4171,7 +4171,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4200,7 +4200,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4229,7 +4229,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4258,7 +4258,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4287,7 +4287,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4316,7 +4316,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4345,7 +4345,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4374,7 +4374,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4403,7 +4403,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4432,7 +4432,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4461,7 +4461,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4490,7 +4490,36 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/038550a1540200d236781ca3cf0f1144f2292b3d.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4519,7 +4548,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4527,7 +4556,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/2a7eb60f6749a8ea7da43af70a10f6f16cbb4f13.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/117f1586b6ac5d4df8f485b2e452293593d166b0.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -4542,13 +4571,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Inapplicable Example 5"
+  "title": "`autocomplete` attribute has valid value: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4556,7 +4585,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/3034b92b75006a5dbd65ea7db1f16ecb0b8c244b.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/21624884bdaded3a3bbf8b2be08afed4179bdd84.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -4577,7 +4606,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4585,7 +4614,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/4206b0208dd1b26aedd1349c61e6dc7230561523.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/29257085a49ae65e15b1c503ec77b041891a530a.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -4606,7 +4635,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4614,94 +4643,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/58dc0946bb43ad33ad591fab1d328ad9435073a6.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Failed Example 5"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/5aa32a698d54506d830bdf078a38728c4b3d2860.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Inapplicable Example 6"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/65a83ab4b6cecd55c07c8770371f83c9eca34d32.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Failed Example 4"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/6e6b67de05ee7fc9000c43a06b89a1266fba9095.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/30f3a727c6e7ed8ea77d4dfe223aa5ddc26cec63.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -4722,7 +4664,123 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/330eee3fc19acb858bd16eed5ec809044353f3b4.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/3ad6cfeba2a2f30883310b8fc181e2a32edae41e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Inapplicable Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/44a190ffca58f648affc40d3d975ebea16c0fcea.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Inapplicable Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/71a09a6e0452c986df51afb59a423af189c9f40c.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Failed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4751,7 +4809,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4759,7 +4817,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/819f29709313d313829d08c8e893e34b65f7f8d4.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/7d50ffe8ed3117cbffa1579de75bf3d68643e8e0.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -4774,129 +4832,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Failed Example 1"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/8342fbb149f4faa1d7139fcc90dace6ab2df3ba7.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Inapplicable Example 9"
+  "title": "`autocomplete` attribute has valid value: Passed Example 9"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/8c7077b80cd4f5d2f560fa439c491c696599de81.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Passed Example 6"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/934a6f3ebe1044106624e652ce4b862922e14211.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Passed Example 10"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/98d585b515aa71a4e29bf4b777f44a01c844a81c.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Passed Example 1"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4925,7 +4867,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4933,7 +4875,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/a0430fed1d5c163c6cc3e3b78cd3302cfa747b28.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/ae3de698292f1b82be69fad21f25ac6ab5b6b8df.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -4948,42 +4890,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Passed Example 8"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/a4f4bc5ea83b15b15cc8ec5f270cc4c56181b847.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/73f2c2",
-  "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Failed Example 2"
+  "title": "`autocomplete` attribute has valid value: Failed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -4991,7 +4904,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/ad9b14c45b5282aaca84223c09ea735417fbd199.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/b2b6c61cf75375cfdf3dd17b461c96ff9c5ee923.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -5006,13 +4919,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Inapplicable Example 8"
+  "title": "`autocomplete` attribute has valid value: Inapplicable Example 9"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5020,7 +4933,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/b424aa7e58cf6d21377f5f7e29aa51996b377ee4.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/b65d8cfb648161ea0363f67877180cb4b59cb4a4.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -5035,13 +4948,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Inapplicable Example 3"
+  "title": "`autocomplete` attribute has valid value: Inapplicable Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5049,7 +4962,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/e183c8f60d13da2e73ccecb856595b29fb5a2752.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/bd2200ee42cd30c8a9070e5d3bb8a48534722191.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -5064,13 +4977,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Passed Example 9"
+  "title": "`autocomplete` attribute has valid value: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5078,7 +4991,36 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/e57986c93c3f6d77859c497916e757ae9675306d.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/c8ee4a425e3fe352ccd1858a1cea3f064e7f6d16.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Passed Example 10"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/cc2a04dfd87465eae2165854c41094a9552227d8.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -5099,7 +5041,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5107,7 +5049,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/e8bc8969684e52c0a6f8006f74a54ffa4f458de0.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/d1455c9d1584b661a641570ee83a493bd014bf71.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -5122,13 +5064,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Passed Example 4"
+  "title": "`autocomplete` attribute has valid value: Passed Example 8"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5136,7 +5078,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/ecd347eb1a467c8eb22433d0a12bba2ed4b87f27.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/e7e5c718ff91745bd3fa9276aaf16bb5583a2dcf.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -5151,13 +5093,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Inapplicable Example 4"
+  "title": "`autocomplete` attribute has valid value: Passed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5165,7 +5107,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/73f2c2/f4d9be14e16fcb7aca348b68023863f9128842cd.html",
+ "source": "https://act-rules.github.io/testcases/73f2c2/e94e89adabbadc97313644e50421038cfe6845e9.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -5180,13 +5122,71 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/73f2c2",
   "@type": "TestCase",
-  "title": "`autocomplete` attribute has valid value: Inapplicable Example 2"
+  "title": "`autocomplete` attribute has valid value: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/f0aca8473af9a91357f5ee6c6000be4432244a22.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Inapplicable Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/73f2c2/f608eb1c30b8e3ffee0fdb20597506a171bdf25f.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/73f2c2",
+  "@type": "TestCase",
+  "title": "`autocomplete` attribute has valid value: Inapplicable Example 8"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5209,13 +5209,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Failed Example 1"
+  "title": "`svg` element with explicit role has non-empty accessible name: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5238,13 +5238,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Passed Example 1"
+  "title": "`svg` element with explicit role has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5267,13 +5267,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Passed Example 2"
+  "title": "`svg` element with explicit role has non-empty accessible name: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5296,13 +5296,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Failed Example 3"
+  "title": "`svg` element with explicit role has non-empty accessible name: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5325,13 +5325,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Inapplicable Example 2"
+  "title": "`svg` element with explicit role has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5354,13 +5354,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Inapplicable Example 1"
+  "title": "`svg` element with explicit role has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5383,13 +5383,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Passed Example 3"
+  "title": "`svg` element with explicit role has non-empty accessible name: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5412,13 +5412,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Inapplicable Example 3"
+  "title": "`svg` element with explicit role has non-empty accessible name: Inapplicable Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5441,13 +5441,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/7d6734",
   "@type": "TestCase",
-  "title": "`svg` element with explicit role has accessible name: Failed Example 2"
+  "title": "`svg` element with explicit role has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5476,7 +5476,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5505,7 +5505,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5534,7 +5534,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5563,7 +5563,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5592,7 +5592,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5621,7 +5621,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5650,7 +5650,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5679,7 +5679,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5702,13 +5702,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Passed Example 4"
+  "title": "Button has non-empty accessible name: Passed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5731,13 +5731,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Failed Example 2"
+  "title": "Button has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5760,13 +5760,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Inapplicable Example 1"
+  "title": "Button has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5789,13 +5789,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Passed Example 6"
+  "title": "Button has non-empty accessible name: Passed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5818,13 +5818,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Inapplicable Example 2"
+  "title": "Button has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5847,13 +5847,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Passed Example 5"
+  "title": "Button has non-empty accessible name: Passed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5876,13 +5876,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Inapplicable Example 4"
+  "title": "Button has non-empty accessible name: Inapplicable Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5905,13 +5905,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Inapplicable Example 5"
+  "title": "Button has non-empty accessible name: Inapplicable Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
-  "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5934,13 +5934,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Failed Example 4"
+  "title": "Button has non-empty accessible name: Failed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5963,13 +5963,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Passed Example 2"
+  "title": "Button has non-empty accessible name: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -5992,13 +5992,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Passed Example 1"
+  "title": "Button has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6021,13 +6021,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Failed Example 3"
+  "title": "Button has non-empty accessible name: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6050,13 +6050,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Passed Example 3"
+  "title": "Button has non-empty accessible name: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6079,13 +6079,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Inapplicable Example 3"
+  "title": "Button has non-empty accessible name: Inapplicable Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6108,13 +6108,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Failed Example 1"
+  "title": "Button has non-empty accessible name: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6137,13 +6137,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Failed Example 5"
+  "title": "Button has non-empty accessible name: Failed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6166,42 +6166,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/97a4e1",
   "@type": "TestCase",
-  "title": "Button has accessible name: Passed Example 7"
+  "title": "Button has non-empty accessible name: Passed Example 7"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/9eb3f6/0c831b81254b27f0a7f05e8ec76735fd9ddb8cb7.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/9eb3f6",
-  "@type": "TestCase",
-  "title": "Image filename is accessible name for image: Inapplicable Example 4"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6230,7 +6201,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6238,7 +6209,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/9eb3f6/139feeccca883311f62497af2edd815addc668eb.html",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/1445920070a4f88ba5df578879b3b6402c5efd58.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -6253,13 +6224,71 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/9eb3f6",
   "@type": "TestCase",
-  "title": "Image filename is accessible name for image: Passed Example 4"
+  "title": "Image filename is accessible name for image: Passed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/36da2b1c9dbb64505ab0fecadb788663f0973f00.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9eb3f6",
+  "@type": "TestCase",
+  "title": "Image filename is accessible name for image: Failed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/39d3fd00e8e9060969e064eaf1c8fe52aac7c326.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9eb3f6",
+  "@type": "TestCase",
+  "title": "Image filename is accessible name for image: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6288,7 +6317,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6317,65 +6346,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/9eb3f6/4d70a122992b17d69afbf05e92b8c953eccfbd03.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/9eb3f6",
-  "@type": "TestCase",
-  "title": "Image filename is accessible name for image: Failed Example 4"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/9eb3f6/50bc301a1b62b9850538c6b4bfa1e67b695df0fc.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/9eb3f6",
-  "@type": "TestCase",
-  "title": "Image filename is accessible name for image: Inapplicable Example 3"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6404,7 +6375,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6412,7 +6383,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/9eb3f6/69aca91aef080e1f6a50b2ce05ed640aea25aa04.html",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/57d68f3bdb9e16e08d8059a3e57c6f5adb52bce8.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -6427,13 +6398,71 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/9eb3f6",
   "@type": "TestCase",
-  "title": "Image filename is accessible name for image: Passed Example 3"
+  "title": "Image filename is accessible name for image: Inapplicable Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/607ad4964aa69e78a663cf993a28cedd6a1dc39e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9eb3f6",
+  "@type": "TestCase",
+  "title": "Image filename is accessible name for image: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/9ffb088dc361047bc8b7998e41fec07665ce596e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9eb3f6",
+  "@type": "TestCase",
+  "title": "Image filename is accessible name for image: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6462,7 +6491,65 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/b7f692d05b8446aa7254f62834cdcbbc62488da0.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9eb3f6",
+  "@type": "TestCase",
+  "title": "Image filename is accessible name for image: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9eb3f6/c9d1b69ad4f38c469516c19842b478fc16bc3d12.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9eb3f6",
+  "@type": "TestCase",
+  "title": "Image filename is accessible name for image: Inapplicable Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6491,7 +6578,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6520,7 +6607,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6549,7 +6636,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6578,7 +6665,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6607,7 +6694,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6636,7 +6723,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6665,7 +6752,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6694,7 +6781,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6723,7 +6810,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6752,7 +6839,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6781,7 +6868,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6810,7 +6897,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6839,7 +6926,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6868,7 +6955,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6897,7 +6984,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6926,7 +7013,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6955,7 +7042,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -6984,7 +7071,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7013,7 +7100,36 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/11ec274fc1fdac1792436368e7ad1b25bfa50370.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/afw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7042,7 +7158,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7071,7 +7187,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7100,7 +7216,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7129,7 +7245,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7158,7 +7274,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7187,7 +7303,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7216,7 +7332,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7245,7 +7361,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7274,7 +7390,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7303,7 +7419,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7332,7 +7448,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7361,7 +7477,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7390,36 +7506,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/afw4f7/9c93c6c0a7880bfd659d7ceb6ed89a535519fd7d.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/afw4f7",
-  "@type": "TestCase",
-  "title": "Text has minimum contrast: Failed Example 3"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7448,7 +7535,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7477,7 +7564,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7506,7 +7593,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7535,7 +7622,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7564,7 +7651,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7572,7 +7659,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/afw4f7/c622e5d16f0852118cc379e72bf7562e50d394a7.html",
+ "source": "https://act-rules.github.io/testcases/afw4f7/b84e9e1a57fce9aeba150ee3b3f9284c6a86620b.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -7593,7 +7680,36 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/afw4f7/c8eeb76fd7164dcaf7289ace90352bd5d2611c44.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/afw4f7",
+  "@type": "TestCase",
+  "title": "Text has minimum contrast: Inapplicable Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7622,7 +7738,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7651,7 +7767,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7680,7 +7796,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7709,7 +7825,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7738,7 +7854,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7767,36 +7883,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/afw4f7/ede743031a3f43accf239681c22396a4c683821a.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/afw4f7",
-  "@type": "TestCase",
-  "title": "Text has minimum contrast: Inapplicable Example 5"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7825,7 +7912,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7854,7 +7941,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7883,7 +7970,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7912,7 +7999,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7941,7 +8028,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7970,7 +8057,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -7999,7 +8086,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8028,7 +8115,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8057,7 +8144,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8086,7 +8173,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8115,7 +8202,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8144,7 +8231,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8173,7 +8260,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8202,7 +8289,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8231,7 +8318,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8260,7 +8347,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8289,7 +8376,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8318,7 +8405,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8347,7 +8434,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8376,7 +8463,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8405,7 +8492,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8434,7 +8521,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8463,7 +8550,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8492,7 +8579,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8521,7 +8608,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8550,7 +8637,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8579,7 +8666,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8608,7 +8695,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8637,7 +8724,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8666,7 +8753,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8695,7 +8782,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8724,7 +8811,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8753,7 +8840,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8782,7 +8869,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8811,7 +8898,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8840,7 +8927,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8869,7 +8956,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8898,7 +8985,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8927,7 +9014,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8956,7 +9043,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -8985,7 +9072,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9014,7 +9101,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9043,7 +9130,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9072,7 +9159,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9101,7 +9188,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9130,7 +9217,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9159,7 +9246,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9188,7 +9275,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9217,7 +9304,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9246,7 +9333,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9275,7 +9362,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9304,7 +9391,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9333,7 +9420,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9362,7 +9449,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9391,7 +9478,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9420,7 +9507,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9449,7 +9536,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9478,7 +9565,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9507,7 +9594,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9536,7 +9623,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9559,13 +9646,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/bf051a",
   "@type": "TestCase",
-  "title": "HTML page language is valid: Inapplicable Example 1"
+  "title": "HTML page `lang` attribute has valid language tag: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9588,13 +9675,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/bf051a",
   "@type": "TestCase",
-  "title": "HTML page language is valid: Passed Example 2"
+  "title": "HTML page `lang` attribute has valid language tag: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9617,13 +9704,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/bf051a",
   "@type": "TestCase",
-  "title": "HTML page language is valid: Failed Example 1"
+  "title": "HTML page `lang` attribute has valid language tag: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9646,13 +9733,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/bf051a",
   "@type": "TestCase",
-  "title": "HTML page language is valid: Passed Example 1"
+  "title": "HTML page `lang` attribute has valid language tag: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9675,42 +9762,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/bf051a",
   "@type": "TestCase",
-  "title": "HTML page language is valid: Failed Example 2"
+  "title": "HTML page `lang` attribute has valid language tag: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/02b4f9703ee16e1b9dca3c08795839acca3bb49c.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 11"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9733,13 +9791,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 8"
+  "title": "Link has non-empty accessible name: Failed Example 8"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9747,7 +9805,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/113e336f6738ace421233d814a05781a921c3f50.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/12155d8acbd7bf8399f54124e16142a4e3e5878c.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -9762,13 +9820,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 2"
+  "title": "Link has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9776,7 +9834,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/27d5e74ee2feb19a957d398c1ddedd90e971678c.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/1752fb0c94ce17c6557a7e498c6e9a87c6a943ea.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -9791,42 +9849,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Inapplicable Example 2"
+  "title": "Link has non-empty accessible name: Passed Example 10"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/3880a0f89efa89da4caa680fa80c0498f26862bd.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 6"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9849,13 +9878,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Inapplicable Example 1"
+  "title": "Link has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9878,42 +9907,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 9"
+  "title": "Link has non-empty accessible name: Passed Example 9"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/4341c6c066bd62e500fc1a371df5a3faaeb5a3aa.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 4"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9936,13 +9936,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Inapplicable Example 3"
+  "title": "Link has non-empty accessible name: Inapplicable Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9965,13 +9965,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Inapplicable Example 4"
+  "title": "Link has non-empty accessible name: Inapplicable Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -9979,7 +9979,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/5a8336d59483111d283bbf0fdcd90b5c5ba07113.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/58f4527f6510d58a3cefc8978c6e61e651225cb7.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -9994,71 +9994,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 10"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/75f94f7933e40411211407b5740cc7c3af829c5e.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 7"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/76e0a26c0aa01751c4bcd57f039aeeaa3ceb205b.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 1"
+  "title": "Link has non-empty accessible name: Failed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10066,7 +10008,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/7b00561d5eaf673769425036569d6da1d55b21ca.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/7453d6a6491ddfe546eabb9f9cf1f01a96b9a805.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10081,13 +10023,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 9"
+  "title": "Link has non-empty accessible name: Failed Example 9"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10095,7 +10037,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/9340e40335d2bc79f634d1568b9f4cd3e5288fab.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/7c36a41a034c15ceeb7277ffe08f562043e4ba7d.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10110,42 +10052,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 5"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/9482419e022cc7d9264f05dff7c347fbe37809bc.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 5"
+  "title": "Link has non-empty accessible name: Inapplicable Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10153,7 +10066,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/9edb0678f7df680db4b65e948739222a172d515f.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/8e34059f9ff0dfc83070f1d6deb3ed7a944d312d.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10168,13 +10081,42 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 4"
+  "title": "Link has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/9f2d49ed53e5389b7a772cd2b1f587dbf19f5c12.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10197,13 +10139,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 1"
+  "title": "Link has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10211,7 +10153,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/ada75c5a2bfd86e0f23004bc7cce7fdd5427af90.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/a12da9a1b308909db28b10a88f4fc47d76139bf8.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10226,71 +10168,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 10"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/d2d3eae4208ca70ddb0620583ece6ce7a46a090f.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 2"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/d364a77bc63c44198604102debba92d0ca764167.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 3"
+  "title": "Link has non-empty accessible name: Passed Example 8"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10298,7 +10182,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/d4ed5af5f5018dcccb3a0b1efd4f3b488cdcc071.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/ab39bd10dd57974c92308627cfa3574b7b26e331.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10313,42 +10197,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 7"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/dbbaf54943bf1d3ecfdc65ff5eb056476c8194f0.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Passed Example 8"
+  "title": "Link has non-empty accessible name: Passed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10356,7 +10211,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/e9d1fbbc81b1f509644f803317049149f03824f3.html",
+ "source": "https://act-rules.github.io/testcases/c487ae/b12cb4d5f8a63c577fac96089483c7eb79efe378.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10371,13 +10226,274 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 3"
+  "title": "Link has non-empty accessible name: Failed Example 7"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/b91527922e9f374fc7ee87c2fda7cab489ece76f.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Failed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/c94621492b6195e264171aa7132198c46cfdf12b.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/ce6d7e6994f7f9a356d630e5a616d1066871f06c.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/d2e2cc0d8464668b150ed39373c350e5c35f59d2.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/d8c8f2b2e50dad5a464a3cc029650facb36872f8.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Passed Example 7"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/db06694502d16e2c236499a083a9a5ba899b9aef.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/ea39aebd180dea8f516b21f6f1978c9266f94bba.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Inapplicable Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/f9597eed86766f9eb8a45e47fc90c0e85b3e8a3e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/c487ae/fd229811ef4e0ef35500648ebe8094d1b69e296a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/c487ae",
+  "@type": "TestCase",
+  "title": "Link has non-empty accessible name: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10400,42 +10516,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/c487ae",
   "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 11"
+  "title": "Link has non-empty accessible name: Failed Example 10"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/c487ae/ff645ccea74a3c8f207ae5db07246cde041a5208.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/c487ae",
-  "@type": "TestCase",
-  "title": "Link has accessible name: Failed Example 6"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10458,13 +10545,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Passed Example 1"
+  "title": "`iframe` element has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10487,13 +10574,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Failed Example 1"
+  "title": "`iframe` element has non-empty accessible name: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10516,13 +10603,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Inapplicable Example 2"
+  "title": "`iframe` element has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10545,13 +10632,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Passed Example 3"
+  "title": "`iframe` element has non-empty accessible name: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10574,13 +10661,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Failed Example 4"
+  "title": "`iframe` element has non-empty accessible name: Failed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10603,13 +10690,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Failed Example 2"
+  "title": "`iframe` element has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10632,13 +10719,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Inapplicable Example 1"
+  "title": "`iframe` element has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10661,13 +10748,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Failed Example 3"
+  "title": "`iframe` element has non-empty accessible name: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10690,13 +10777,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Inapplicable Example 3"
+  "title": "`iframe` element has non-empty accessible name: Inapplicable Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10719,13 +10806,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/cae760",
   "@type": "TestCase",
-  "title": "`iframe` element has accessible name: Passed Example 2"
+  "title": "`iframe` element has non-empty accessible name: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10754,7 +10841,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10783,7 +10870,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10812,7 +10899,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10841,7 +10928,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10870,7 +10957,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10899,7 +10986,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10928,7 +11015,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10957,7 +11044,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -10986,7 +11073,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11015,7 +11102,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11044,7 +11131,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11073,7 +11160,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11102,7 +11189,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11131,7 +11218,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11160,7 +11247,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11189,7 +11276,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11212,13 +11299,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Passed Example 3"
+  "title": "Element with `lang` attribute has valid language tag: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11241,13 +11328,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Inapplicable Example 1"
+  "title": "Element with `lang` attribute has valid language tag: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11270,13 +11357,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Failed Example 1"
+  "title": "Element with `lang` attribute has valid language tag: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11299,13 +11386,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Failed Example 2"
+  "title": "Element with `lang` attribute has valid language tag: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11328,13 +11415,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Passed Example 2"
+  "title": "Element with `lang` attribute has valid language tag: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11357,13 +11444,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Inapplicable Example 2"
+  "title": "Element with `lang` attribute has valid language tag: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11386,13 +11473,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Passed Example 1"
+  "title": "Element with `lang` attribute has valid language tag: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11415,13 +11502,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/de46e4",
   "@type": "TestCase",
-  "title": "Element within `body` has valid `lang` attribute: Failed Example 3"
+  "title": "Element with `lang` attribute has valid language tag: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11444,13 +11531,42 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 1"
+  "title": "Form control has non-empty accessible name: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/e086e5/09b08d811784ac228154dd08863441b11222a597.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/e086e5",
+  "@type": "TestCase",
+  "title": "Form control has non-empty accessible name: Inapplicable Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11473,13 +11589,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 3"
+  "title": "Form control has non-empty accessible name: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11502,13 +11618,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 5"
+  "title": "Form control has non-empty accessible name: Failed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11531,13 +11647,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 2"
+  "title": "Form control has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11560,13 +11676,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 4"
+  "title": "Form control has non-empty accessible name: Failed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11589,42 +11705,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Passed Example 4"
+  "title": "Form control has non-empty accessible name: Passed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/e086e5/394cdc5cd3b255bb0ee4cb2e600fdb866d850509.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/e086e5",
-  "@type": "TestCase",
-  "title": "Form control has accessible name: Inapplicable Example 4"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11647,13 +11734,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Passed Example 1"
+  "title": "Form control has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11676,13 +11763,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Passed Example 5"
+  "title": "Form control has non-empty accessible name: Passed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11705,13 +11792,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 6"
+  "title": "Form control has non-empty accessible name: Failed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11734,13 +11821,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Passed Example 6"
+  "title": "Form control has non-empty accessible name: Passed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11763,13 +11850,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Inapplicable Example 2"
+  "title": "Form control has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11792,13 +11879,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Passed Example 2"
+  "title": "Form control has non-empty accessible name: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11821,13 +11908,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Passed Example 3"
+  "title": "Form control has non-empty accessible name: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11850,13 +11937,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 7"
+  "title": "Form control has non-empty accessible name: Failed Example 7"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11879,42 +11966,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Inapplicable Example 1"
+  "title": "Form control has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/e086e5/ca2bc0b50848d8a2bfb7b0ba023029844838af70.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "5.37",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/e086e5",
-  "@type": "TestCase",
-  "title": "Form control has accessible name: Inapplicable Example 3"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11937,13 +11995,42 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/e086e5",
   "@type": "TestCase",
-  "title": "Form control has accessible name: Failed Example 8"
+  "title": "Form control has non-empty accessible name: Failed Example 8"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/e086e5/f2c637fa390e645eaf7b9f04059a427c379907f0.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "5.37",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/e086e5",
+  "@type": "TestCase",
+  "title": "Form control has non-empty accessible name: Inapplicable Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -11972,7 +12059,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12001,7 +12088,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12030,7 +12117,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12059,7 +12146,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12088,7 +12175,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12117,7 +12204,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12146,7 +12233,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12175,7 +12262,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12204,7 +12291,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12233,7 +12320,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12262,7 +12349,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12291,7 +12378,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12320,7 +12407,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12349,7 +12436,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12378,7 +12465,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12401,13 +12488,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Inapplicable Example 2"
+  "title": "Heading has non-empty accessible name: Inapplicable Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12430,13 +12517,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Passed Example 2"
+  "title": "Heading has non-empty accessible name: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12459,13 +12546,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Inapplicable Example 1"
+  "title": "Heading has non-empty accessible name: Inapplicable Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12488,13 +12575,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Passed Example 1"
+  "title": "Heading has non-empty accessible name: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12517,13 +12604,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Failed Example 6"
+  "title": "Heading has non-empty accessible name: Failed Example 6"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12546,13 +12633,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Failed Example 3"
+  "title": "Heading has non-empty accessible name: Failed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12575,13 +12662,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Failed Example 1"
+  "title": "Heading has non-empty accessible name: Failed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12604,13 +12691,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Passed Example 4"
+  "title": "Heading has non-empty accessible name: Passed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12633,13 +12720,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Failed Example 2"
+  "title": "Heading has non-empty accessible name: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12662,13 +12749,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Failed Example 4"
+  "title": "Heading has non-empty accessible name: Failed Example 4"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12691,13 +12778,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Passed Example 3"
+  "title": "Heading has non-empty accessible name: Passed Example 3"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12720,13 +12807,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Passed Example 5"
+  "title": "Heading has non-empty accessible name: Passed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
@@ -12749,13 +12836,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/ffd0e9",
   "@type": "TestCase",
-  "title": "Heading has accessible name: Failed Example 5"
+  "title": "Heading has non-empty accessible name: Failed Example 5"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2020-05-19T15:55:59+00:00"
+  "date": "2020-06-23T10:38:34+00:00"
  }
 }
 ]
