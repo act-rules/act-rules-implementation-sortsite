@@ -24,7 +24,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -53,7 +53,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -82,7 +82,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -111,7 +111,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -140,7 +140,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -169,7 +169,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -198,7 +198,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -227,7 +227,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -256,7 +256,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -285,7 +285,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -314,7 +314,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -343,7 +343,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -372,7 +372,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -401,7 +401,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -430,7 +430,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -459,7 +459,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -488,7 +488,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -517,7 +517,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -546,7 +546,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -575,7 +575,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -604,7 +604,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -633,7 +633,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -662,7 +662,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -691,7 +691,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -720,7 +720,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -749,7 +749,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -778,7 +778,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -807,7 +807,471 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/0d7c8aa0f0ee6b251990bc5a607fd1b9e1c16031.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/28968762b325cd842efc4d838620af4045b16361.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/2dff643fccfc0775691bab6045c1122169a37f65.svg",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/51e49f03a39411b94fb59f598c930cdbd07ca192.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 7"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/619f6afb037b508d7dbf3c0e1fdbbf8929e87b94.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/74d8b65bddd2568319787ffcf1e80635ddcfaa58.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/7dbbf1b7ca89a68e26df31548b072ca4471d0e59.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/8c396602966f757064baa7f17a24964ecea206c8.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/9128e5dea722f5618ed9e55ca45d6fd3f24ba39e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Inapplicable Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/a927b072f52658854981ff868f27599dfb9ca813.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/ae15b8f04bcd0bdc4f3fa3c9bc14ba66e630f17a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/b12ef87ab75089650743ba88802762e3e031abb8.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 8"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/d2796b1a8198f9f872a46e88686d2eb5569428b4.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Inapplicable Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/e2160771b10bf00b8496f110b8480c61ef93309e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/f1bc9f0a78a93c36c8ab530475196fb9be950e31.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/24afc2/f57bef417a8dca35f6c08c6f031652d89fa9deb2.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/24afc2",
+  "@type": "TestCase",
+  "title": "Letter spacing in `style` attributes is not `!important`: Inapplicable Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -836,7 +1300,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -865,7 +1329,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -894,7 +1358,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -923,7 +1387,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -952,7 +1416,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -981,7 +1445,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1010,7 +1474,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1039,7 +1503,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1068,7 +1532,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1097,7 +1561,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1126,7 +1590,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1155,7 +1619,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1184,7 +1648,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1213,7 +1677,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1242,7 +1706,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1271,7 +1735,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1300,7 +1764,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1329,7 +1793,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1358,7 +1822,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1387,7 +1851,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1416,7 +1880,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1445,7 +1909,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1474,7 +1938,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1503,7 +1967,210 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/307n5z/14e0056e7a80c2824df9f01583d3b6ff2d539171.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/307n5z",
+  "@type": "TestCase",
+  "title": "Element with presentational children has no focusable content: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/307n5z/1db06333ffcd37fc2f969a444035ca140e3ef9e5.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/307n5z",
+  "@type": "TestCase",
+  "title": "Element with presentational children has no focusable content: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/307n5z/5bdf442489c0dfaf77f921c1e52abe769c3485d9.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/307n5z",
+  "@type": "TestCase",
+  "title": "Element with presentational children has no focusable content: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/307n5z/648bf44e892037faa1d248ad7262cffeb8df4b01.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/307n5z",
+  "@type": "TestCase",
+  "title": "Element with presentational children has no focusable content: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/307n5z/7b3fad310daa8f71271f32b55d5ca99dea047eee.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/307n5z",
+  "@type": "TestCase",
+  "title": "Element with presentational children has no focusable content: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/307n5z/7cc30f1c10e46186a5cd51c845fef758d857f825.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/307n5z",
+  "@type": "TestCase",
+  "title": "Element with presentational children has no focusable content: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/307n5z/e7f0cc1aa2e21184de0d97a4a4eafc69a4079add.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/307n5z",
+  "@type": "TestCase",
+  "title": "Element with presentational children has no focusable content: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1532,7 +2199,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1561,7 +2228,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1590,7 +2257,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1619,7 +2286,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1648,7 +2315,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1677,7 +2344,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1706,7 +2373,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1735,7 +2402,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1764,7 +2431,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1793,7 +2460,297 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/1bb3c615f8639cee0364df19d59492763cdf64f0.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/3e7e68027e4a9faee951621fdc95d4e3e76fa25c.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/5d4c468cccb5696ac52e23f1b1544f8f27b3c830.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/6cbbb6526b978c74150a01149d955574a22ab2e2.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/90bd58b1ff496fea3d6ccae7763f170a063ab9c3.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/9a8dab22acd170c003ed2bb9ac71d94dcb41b5f0.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/9ab6e71391047a65761ba719964a1b17a06b10d0.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Passed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/baa8fcdcf15e343cd41191c69107306ad821c500.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/c38bd0fb2bbbbbc1accb78b8553876455d376626.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/46ca7f/d2376f664c3f9fa50d812e6c0be2da80f05351ae.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/46ca7f",
+  "@type": "TestCase",
+  "title": "Element marked as decorative is not exposed: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1822,7 +2779,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1851,7 +2808,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1880,7 +2837,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1909,7 +2866,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1938,7 +2895,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1967,7 +2924,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -1996,7 +2953,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2025,7 +2982,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2054,7 +3011,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2083,7 +3040,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2112,7 +3069,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2141,7 +3098,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2170,7 +3127,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2199,7 +3156,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2228,7 +3185,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2257,7 +3214,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2286,7 +3243,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2315,7 +3272,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2344,7 +3301,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2373,7 +3330,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2402,7 +3359,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2431,7 +3388,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2460,7 +3417,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2489,7 +3446,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2518,7 +3475,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2547,7 +3504,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2576,7 +3533,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2605,7 +3562,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2634,7 +3591,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2663,7 +3620,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2692,7 +3649,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2721,7 +3678,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2750,7 +3707,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2779,7 +3736,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2808,7 +3765,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2837,7 +3794,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2866,7 +3823,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2895,7 +3852,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2924,7 +3881,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2953,7 +3910,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -2982,7 +3939,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3011,7 +3968,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3040,7 +3997,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3069,7 +4026,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3098,7 +4055,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3127,7 +4084,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3156,7 +4113,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3185,7 +4142,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3214,7 +4171,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3243,7 +4200,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3272,7 +4229,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3301,7 +4258,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3330,7 +4287,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3359,7 +4316,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3388,7 +4345,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3417,7 +4374,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3446,7 +4403,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3475,7 +4432,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3504,7 +4461,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3533,7 +4490,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3562,7 +4519,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3591,7 +4548,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3620,7 +4577,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3649,7 +4606,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3678,7 +4635,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3707,7 +4664,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3736,7 +4693,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3765,7 +4722,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3794,7 +4751,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3823,7 +4780,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3852,7 +4809,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3860,7 +4817,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/674b10/27b73ce879f043c9fc2cbc2c123ab8cf78f78f46.html",
+ "source": "https://act-rules.github.io/testcases/674b10/158817a3dd84625f5c228b4b818b3a2ef10837db.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -3875,13 +4832,42 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/674b10",
   "@type": "TestCase",
-  "title": "`role` attribute has valid value: Failed Example 1"
+  "title": "`role` attribute has valid value: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/674b10/22ce45f8d27d909d70fc264cb4d7c5532749eceb.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/674b10",
+  "@type": "TestCase",
+  "title": "`role` attribute has valid value: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3910,7 +4896,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3939,7 +4925,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3968,7 +4954,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -3976,7 +4962,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/674b10/7820808719f11fb0ef0287b155a1304ae9dfcf76.html",
+ "source": "https://act-rules.github.io/testcases/674b10/9ba09fb345e5e4fae83776a55049957281def46e.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -3991,71 +4977,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/674b10",
   "@type": "TestCase",
-  "title": "`role` attribute has valid value: Failed Example 2"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/674b10/a4dffba35ea8dea3605d922653bb769dcf936a61.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "6.40",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/674b10",
-  "@type": "TestCase",
-  "title": "`role` attribute has valid value: Passed Example 2"
+  "title": "`role` attribute has valid value: Passed Example 1"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/674b10/ab7313206eb57bea6f3e6daa5a44071df33448d1.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "6.40",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/674b10",
-  "@type": "TestCase",
-  "title": "`role` attribute has valid value: Passed Example 3"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4084,7 +5012,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4092,7 +5020,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/674b10/d80785e1804a707b7eac8ed0707eb10df0543be5.html",
+ "source": "https://act-rules.github.io/testcases/674b10/e13183529116f26df6f6b3904d4b38db148752f3.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -4107,13 +5035,42 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/674b10",
   "@type": "TestCase",
-  "title": "`role` attribute has valid value: Passed Example 1"
+  "title": "`role` attribute has valid value: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/674b10/ec996cbf1dc213ca6b056675d20360d4a7f3fd5e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/674b10",
+  "@type": "TestCase",
+  "title": "`role` attribute has valid value: Passed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4142,7 +5099,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4171,7 +5128,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4200,7 +5157,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4229,7 +5186,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4258,7 +5215,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4287,7 +5244,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4316,7 +5273,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4345,7 +5302,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4374,7 +5331,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4403,7 +5360,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4432,7 +5389,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4461,7 +5418,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4490,7 +5447,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4519,7 +5476,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4548,7 +5505,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4577,7 +5534,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4606,7 +5563,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4635,7 +5592,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4664,7 +5621,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4693,7 +5650,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4722,7 +5679,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4751,7 +5708,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4780,7 +5737,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4809,7 +5766,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4838,7 +5795,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4867,7 +5824,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4896,7 +5853,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4925,7 +5882,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4954,7 +5911,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -4983,7 +5940,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5012,7 +5969,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5041,7 +5998,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5070,7 +6027,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5099,7 +6056,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5128,7 +6085,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5157,7 +6114,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5186,7 +6143,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5215,7 +6172,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5244,7 +6201,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5273,7 +6230,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5302,7 +6259,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5331,7 +6288,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5360,7 +6317,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5389,7 +6346,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5418,7 +6375,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5447,7 +6404,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5476,7 +6433,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5505,7 +6462,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5534,7 +6491,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5563,7 +6520,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5592,7 +6549,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5621,7 +6578,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5650,7 +6607,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5679,7 +6636,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5708,7 +6665,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5737,7 +6694,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5766,7 +6723,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5795,7 +6752,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5824,7 +6781,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5853,7 +6810,587 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/1ab916c4ce46f566e1ccadcbfac9820e30f009f9.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Inapplicable Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/1fc0772272b34710f88019a71536bf9007322fc3.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/31a591256b9b60b5b1c96845f356cb577aa4ffd7.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 10"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/4165b375730e27289a7df5a8523704247ec8ca29.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 9"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/62f66da20c77a684f5c1d2d411ddf819bedf61e5.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Failed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/7377bc6d68efb0c88d33e49fb96b8009ceb754c8.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Failed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/7a170dbec6d36996b0625fa59f7648ece3be0541.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/81206ee36822e5d9f511fc22bce11ede3f322247.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/825f436c2e3df2f568929d195ad59616e8d1446a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 7"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/876792eb82b1e6fe8cbcec23f79248cefc39ac96.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/933d408f6bc140fbd41ffd742453a2bf3474f3c6.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/a516d406d117e04739a446076264e9d5fd9d752a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/a9522ba39546fd729b1750b1555aa275ea639839.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Inapplicable Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/ab6e2015292591ce45e0cd39c38f2003a79949f8.svg",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/b9c937432afbb36e65d62ad247346b8b8042e1de.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 8"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/bf114456b0c5d14e7746d81d2142c3b6d9aaf74e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/cb36f6e7e4be40692fee6c7bd8b0af0ff6f1b0d6.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/e27524b0a6c228b9c7b351e24e09c84dd28fd0f4.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/e2f9138260ce14245ebc17e59b42f8f64cd08bc5.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/78fd32/fd21a8d262dc9d5a6109fab863bfaa98ee3d7329.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/78fd32",
+  "@type": "TestCase",
+  "title": "Line height in `style` attributes is not `!important`: Inapplicable Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5882,7 +7419,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5911,7 +7448,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5940,7 +7477,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5969,7 +7506,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -5998,7 +7535,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6027,7 +7564,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6056,7 +7593,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6085,7 +7622,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6114,7 +7651,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6143,7 +7680,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6172,7 +7709,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6201,7 +7738,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6230,7 +7767,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6259,7 +7796,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6288,7 +7825,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6317,7 +7854,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6346,7 +7883,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6375,7 +7912,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6404,7 +7941,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6433,7 +7970,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6462,7 +7999,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6491,7 +8028,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6520,7 +8057,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6549,7 +8086,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6578,7 +8115,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6607,7 +8144,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6636,7 +8173,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6665,7 +8202,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6694,7 +8231,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6723,7 +8260,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6752,7 +8289,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6781,7 +8318,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6810,7 +8347,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6839,7 +8376,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6868,7 +8405,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6897,7 +8434,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6926,7 +8463,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6955,7 +8492,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -6984,7 +8521,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7013,7 +8550,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7042,7 +8579,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7071,7 +8608,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7100,7 +8637,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7129,7 +8666,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7158,7 +8695,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7187,7 +8724,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7216,7 +8753,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7245,7 +8782,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7274,7 +8811,471 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/47e1c13e6e0075cde0b804600f89a6e14a50830a.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 6"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/4b55d76e967a90922608f69a52073548b57f9322.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Inapplicable Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/4d7879908d3865d39ea13a630ffd70ecd688d687.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/60800c7446eb25324d08b976b6b3f41c15d2f19b.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 8"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/673f852759f47787bb3992c6377843ecbb0aa3ad.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/77a441eea7f4809aa9c0e9fa77caf26adf27321c.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/78d27317c72323bac1200e0f3f5a6353f46ac37b.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 5"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/80e73cbd0f07dc169c5d990e29208d0871ab3fd6.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/86286f7c2330ca8c9c65dbbbd9dee54b154416f0.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Inapplicable Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/94bb0d8d836327ea9aaeba9a44699b675d5623c6.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/a9cb9f8f6776401d48a151d1d09993ef0b98150d.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 7"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/b636ef6c236adfc218417389e5958fd1d816ae30.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Failed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/c13bcb844ef653ecdbca35a0dfb727e307fee6af.svg",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Inapplicable Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/dbe4bfd976d642eca79deec7dd3b969620b352f2.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Passed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/f73a12b13cbc7deec3554434c4c395646a91a0fc.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Inapplicable Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/9e45ec/f9c23e95b02c67512a832612c1a4445538a3e23e.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/9e45ec",
+  "@type": "TestCase",
+  "title": "Word spacing in `style` attributes is not `!important`: Failed Example 1"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7303,7 +9304,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7332,7 +9333,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7361,7 +9362,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7390,7 +9391,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7419,7 +9420,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7448,7 +9449,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7477,7 +9478,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7506,7 +9507,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7535,7 +9536,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7564,7 +9565,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7593,7 +9594,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7622,7 +9623,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7651,7 +9652,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7680,7 +9681,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7709,7 +9710,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7738,7 +9739,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7767,7 +9768,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7796,7 +9797,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7825,7 +9826,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7854,7 +9855,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7883,7 +9884,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7912,7 +9913,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7941,7 +9942,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7970,7 +9971,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -7999,7 +10000,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8028,7 +10029,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8057,7 +10058,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8086,7 +10087,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8115,7 +10116,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8144,7 +10145,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8173,7 +10174,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8202,7 +10203,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8231,7 +10232,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8260,7 +10261,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8289,7 +10290,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8318,7 +10319,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8347,7 +10348,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8376,7 +10377,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8405,7 +10406,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8434,7 +10435,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8463,7 +10464,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8492,7 +10493,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8521,7 +10522,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8550,7 +10551,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8579,7 +10580,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8608,7 +10609,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8637,7 +10638,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8666,7 +10667,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8695,7 +10696,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8724,7 +10725,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8753,7 +10754,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8782,7 +10783,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8811,7 +10812,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8840,7 +10841,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8869,7 +10870,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8898,7 +10899,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8927,7 +10928,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8956,7 +10957,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -8985,7 +10986,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9014,7 +11015,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9043,7 +11044,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9072,7 +11073,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9101,7 +11102,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9130,7 +11131,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9159,7 +11160,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9188,7 +11189,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9217,7 +11218,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9246,7 +11247,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9275,7 +11276,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9304,7 +11305,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9333,7 +11334,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9362,7 +11363,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9391,7 +11392,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9420,7 +11421,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9449,7 +11450,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9478,7 +11479,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9507,7 +11508,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9536,7 +11537,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9565,7 +11566,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9594,7 +11595,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9623,7 +11624,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9652,7 +11653,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9681,7 +11682,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9710,7 +11711,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9739,7 +11740,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9768,7 +11769,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9797,7 +11798,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9826,7 +11827,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9855,7 +11856,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9884,7 +11885,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9913,7 +11914,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9942,7 +11943,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -9971,7 +11972,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10000,7 +12001,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10029,7 +12030,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10058,7 +12059,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10087,7 +12088,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10116,7 +12117,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10145,7 +12146,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10174,7 +12175,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10203,7 +12204,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10232,7 +12233,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10261,7 +12262,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10290,7 +12291,36 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/bc659a/04bdb5cac43d5eeefc71729375e14d02167eb0ba.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/bc659a",
+  "@type": "TestCase",
+  "title": "`meta` element has no refresh delay: Failed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10319,7 +12349,36 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/bc659a/131c061ef0d235a5b8f1ed61fc39df06587af6ae.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/bc659a",
+  "@type": "TestCase",
+  "title": "`meta` element has no refresh delay: Inapplicable Example 8"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10348,7 +12407,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10377,7 +12436,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10385,7 +12444,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/3346a1e6380ac1208bd977e40405efda431e593b.html",
+ "source": "https://act-rules.github.io/testcases/bc659a/3708381f22cd3b0f9ac05869ae017686911b48f0.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10400,13 +12459,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/bc659a",
   "@type": "TestCase",
-  "title": "`meta` element has no refresh delay: Failed Example 3"
+  "title": "`meta` element has no refresh delay: Failed Example 2"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10414,123 +12473,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/45e9561106965ddc43f915ede35e4f4b50db0743.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "6.40",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/bc659a",
-  "@type": "TestCase",
-  "title": "`meta` element has no refresh delay: Inapplicable Example 8"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/497149cc71c91862653f8e379134f8c05b2bd8a1.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "6.40",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/bc659a",
-  "@type": "TestCase",
-  "title": "`meta` element has no refresh delay: Inapplicable Example 7"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/4ad3e60c2ecfae0f52e50595cd85ccf7acf67718.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "6.40",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/bc659a",
-  "@type": "TestCase",
-  "title": "`meta` element has no refresh delay: Passed Example 3"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/4e240e644f898d98b844fc6a8b9eabb8a127c916.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "6.40",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/bc659a",
-  "@type": "TestCase",
-  "title": "`meta` element has no refresh delay: Passed Example 2"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/628163884471a7f78162b88467bb760d2f9df625.html",
+ "source": "https://act-rules.github.io/testcases/bc659a/3b589370a3860cb6ac8570cb27a30a91e24d55ba.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10551,7 +12494,65 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/bc659a/4b6e44854c950756eea0530ef349ba0ff9e757fb.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/bc659a",
+  "@type": "TestCase",
+  "title": "`meta` element has no refresh delay: Failed Example 4"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:failed",
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/bc659a/521cee2dce2c9889b49903d930e0bc8d005dcb72.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/bc659a",
+  "@type": "TestCase",
+  "title": "`meta` element has no refresh delay: Passed Example 3"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10580,7 +12581,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10588,7 +12589,7 @@
 ,
 {
  "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/a7bfb33106602cf9db3fba2dec2dd0547045bf1d.html",
+ "source": "https://act-rules.github.io/testcases/bc659a/bd0dd20bc2a007ca56e08c41cf430ae14caf2ea1.html",
  "assertor": {
   "@id": "SortSite",
   "@type": "Software",
@@ -10603,13 +12604,13 @@
   "test": {
   "@id": "https://act-rules.github.io/rules/bc659a",
   "@type": "TestCase",
-  "title": "`meta` element has no refresh delay: Failed Example 4"
+  "title": "`meta` element has no refresh delay: Inapplicable Example 7"
  },
  "mode": "earl:automatic",
  "result": {
   "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "outcome": "earl:passed",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10638,36 +12639,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
- }
-}
-]
-}
-,
-{
- "@type": "TestSubject",
- "source": "https://act-rules.github.io/testcases/bc659a/cefc9954aea295c834eeb8065b7e054afac559e3.html",
- "assertor": {
-  "@id": "SortSite",
-  "@type": "Software",
-  "title": "SortSite",
-  "description": "SortSite is an automatic accessibility evaluator for webpages.",
-  "hasVersion": "6.40",
-  "homepage": "https://www.powermapper.com/products/sortsite/"
- },
- "assertions": [
-  {
-  "@type": "Assertion",
-  "test": {
-  "@id": "https://act-rules.github.io/rules/bc659a",
-  "@type": "TestCase",
-  "title": "`meta` element has no refresh delay: Failed Example 2"
- },
- "mode": "earl:automatic",
- "result": {
-  "@type": "TestResult",
-  "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10696,7 +12668,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10725,7 +12697,36 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
+ }
+}
+]
+}
+,
+{
+ "@type": "TestSubject",
+ "source": "https://act-rules.github.io/testcases/bc659a/fb1a553b5ce749ceaf06b74ec8681eff188ad4af.html",
+ "assertor": {
+  "@id": "SortSite",
+  "@type": "Software",
+  "title": "SortSite",
+  "description": "SortSite is an automatic accessibility evaluator for webpages.",
+  "hasVersion": "6.40",
+  "homepage": "https://www.powermapper.com/products/sortsite/"
+ },
+ "assertions": [
+  {
+  "@type": "Assertion",
+  "test": {
+  "@id": "https://act-rules.github.io/rules/bc659a",
+  "@type": "TestCase",
+  "title": "`meta` element has no refresh delay: Passed Example 2"
+ },
+ "mode": "earl:automatic",
+ "result": {
+  "@type": "TestResult",
+  "outcome": "earl:untested",
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10754,7 +12755,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10783,7 +12784,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10812,7 +12813,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10841,7 +12842,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10870,7 +12871,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10899,7 +12900,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10928,7 +12929,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10957,7 +12958,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -10986,7 +12987,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11015,7 +13016,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11044,7 +13045,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11073,7 +13074,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11102,7 +13103,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11131,7 +13132,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11160,7 +13161,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11189,7 +13190,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11218,7 +13219,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11247,7 +13248,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11276,7 +13277,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11305,7 +13306,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11334,7 +13335,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11363,7 +13364,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11392,7 +13393,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11421,7 +13422,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11450,7 +13451,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11479,7 +13480,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11508,7 +13509,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11537,7 +13538,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11566,7 +13567,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11595,7 +13596,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11624,7 +13625,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11653,7 +13654,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11682,7 +13683,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11711,7 +13712,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11740,7 +13741,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11769,7 +13770,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:untested",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11798,7 +13799,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11827,7 +13828,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11856,7 +13857,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11885,7 +13886,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11914,7 +13915,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11943,7 +13944,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -11972,7 +13973,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12001,7 +14002,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12030,7 +14031,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12059,7 +14060,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12088,7 +14089,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12117,7 +14118,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12146,7 +14147,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12175,7 +14176,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12204,7 +14205,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12233,7 +14234,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12262,7 +14263,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12291,7 +14292,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12320,7 +14321,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12349,7 +14350,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12378,7 +14379,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12407,7 +14408,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12436,7 +14437,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12465,7 +14466,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12494,7 +14495,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12523,7 +14524,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12552,7 +14553,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12581,7 +14582,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12610,7 +14611,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12639,7 +14640,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12668,7 +14669,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12697,7 +14698,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12726,7 +14727,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12755,7 +14756,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12784,7 +14785,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12813,7 +14814,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12842,7 +14843,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12871,7 +14872,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12900,7 +14901,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12929,7 +14930,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12958,7 +14959,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -12987,7 +14988,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13016,7 +15017,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13045,7 +15046,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13074,7 +15075,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13103,7 +15104,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13132,7 +15133,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13161,7 +15162,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13190,7 +15191,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13219,7 +15220,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13248,7 +15249,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13277,7 +15278,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13306,7 +15307,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13335,7 +15336,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13364,7 +15365,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13393,7 +15394,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13422,7 +15423,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13451,7 +15452,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13480,7 +15481,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13509,7 +15510,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13538,7 +15539,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13567,7 +15568,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13596,7 +15597,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13625,7 +15626,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13654,7 +15655,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13683,7 +15684,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13712,7 +15713,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13741,7 +15742,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13770,7 +15771,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13799,7 +15800,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13828,7 +15829,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13857,7 +15858,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13886,7 +15887,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13915,7 +15916,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13944,7 +15945,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -13973,7 +15974,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14002,7 +16003,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14031,7 +16032,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14060,7 +16061,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14089,7 +16090,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14118,7 +16119,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14147,7 +16148,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14176,7 +16177,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14205,7 +16206,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:passed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
@@ -14234,7 +16235,7 @@
  "result": {
   "@type": "TestResult",
   "outcome": "earl:failed",
-  "date": "2021-01-28T18:22:16+00:00"
+  "date": "2021-01-30T07:39:23+00:00"
  }
 }
 ]
